@@ -5,3 +5,4 @@ var divide = (a, b) => +a / +b
 var inc = (n) => +n++ 
 var dec = (n) => +n-- 
 var makeInt = n => parseInt(n, 10)
+var preserveDecimal = n => parseFloat()n
